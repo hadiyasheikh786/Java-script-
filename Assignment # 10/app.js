@@ -99,11 +99,11 @@
 
 
 
-document.write(`<h3>Series</h3><br>`);
+//document.write(`<h3>Series</h3><br>`);
 
-for (let i = 2; i <= 20; i += 2) {
-  document.write(`${i}k<br>`);
-}
+//for (let i = 2; i <= 20; i += 2) {
+//  document.write(`${i}k<br>`);
+//}
 
 
 //7. You have an array
